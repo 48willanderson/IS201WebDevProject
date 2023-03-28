@@ -1,0 +1,17 @@
+body {font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: grey; background-color: rgb(239, 239, 172);}
+
+li {font-size: 15px; font-style: italic; color: navy; font-weight: normal;}
+
+a {color: maroon; text-decoration: none;}
+
+a:hover {text-decoration: underline;}
+
+a:visited {color: blue;}
+
+.bold {font-weight: bold;}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+}
